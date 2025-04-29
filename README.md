@@ -2,6 +2,13 @@
 
 A simple blog platform built with PHP, MySQL, and Bootstrap.
 
+## Screenshots
+
+![Homepage](screenshots/homepage.png)
+![Blog Post](screenshots/blog-post.png)
+![Admin Dashboard](screenshots/admin-dashboard.png)
+![Login Page](screenshots/login-page.png)
+
 ## Features
 
 - User registration and authentication
